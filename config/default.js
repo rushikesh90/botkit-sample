@@ -48,13 +48,6 @@ module.exports = {
       'type': 'mrkdwn',
       'text': '@topbot *help* : Show list of supported commands'
     }
-  },
-  {
-    'type': 'section',
-    'text': {
-      'type': 'mrkdwn',
-      'text': '@topbot *request* <request> : Send request to the topcoder channel'
-    }
   }
   ]
 }

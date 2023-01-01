@@ -14,7 +14,7 @@
     "botkit": "^4.5.0",
     "botkit-plugin-cms": "^1.0.2",
     "botkit-storage-mongo": "^1.0.7",
-    "config": "^3.2.2",
+    "config": "^3.3.8",
     "cookie-parser": "^1.4.4",
     "dotenv": "^7.0.0",
     "express-hbs": "^2.1.2",
